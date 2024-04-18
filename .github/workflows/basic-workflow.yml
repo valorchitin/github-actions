@@ -1,7 +1,7 @@
 name: example1
 
 on: 
-  push:
+  pull_request:
 
 jobs:
 
